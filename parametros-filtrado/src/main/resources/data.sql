@@ -1,0 +1,18 @@
+INSERT INTO producto (nombre, marca, precio) VALUES
+                                                ('Funda móvil', 'Spigen', 25.00),
+                                                ('Cable USB-C', 'Anker', 29.99),
+                                                 ('Funda sobre portátil', 'Tucano', 35.00),
+                                                 ('Sobre acolchado pack 50', 'Fellowes', 42.50),
+                                                 ('Ratón inalámbrico', 'Logitech', 45.50),
+                                                 ('Auriculares inalámbricos', 'Sony', 89.00),
+                                                 ('Disco SSD 1TB', 'Samsung', 99.90),
+                                                 ('Teclado mecánico', 'Logitech', 129.99),
+                                                 ('Altavoz bluetooth', 'JBL', 149.00),
+                                                 ('Monitor 27 pulgadas', 'LG', 249.00),
+                                                 ('Silla gaming', 'Corsair', 299.00),
+                                                 ('Tablet Galaxy Tab', 'Samsung', 449.00),
+                                                 ('Smartwatch', 'Apple', 499.00),
+                                                 ('Consola PS5', 'Sony', 549.99),
+                                                 ('Móvil iPhone', 'Apple', 999.00),
+                                                 ('Portátil ThinkPad', 'Lenovo', 1149.00),
+                                                 ('Portátil MacBook Pro', 'Apple', 1257.00);
